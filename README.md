@@ -67,13 +67,13 @@ Japan	316
 Spain	232
 South Korea	231
 
-Content added to Netflix by year — growth accelerated sharply from 2016, peaked in 2019 (2,016 titles added), then declined in 2020–2021 (dataset ends September 2021).
+Content added to Netflix by year - growth accelerated sharply from 2016, peaked in 2019 (2,016 titles added), then declined in 2020–2021 (dataset ends September 2021).
 
-Maturity ratings — TV-MA (3,205) and TV-14 (2,157) dominate the catalog, together making up over 60% of titles — Netflix skews toward mature/teen audiences rather than family content.
+Maturity ratings - TV-MA (3,205) and TV-14 (2,157) dominate the catalog, together making up over 60% of titles -  Netflix skews toward mature/teen audiences rather than family content.
 
-Movie runtime trend — average movie length has steadily shortened, from ~120 minutes for 2002 releases to ~92 minutes for 2020 releases, a ~24% decline, consistent with the industry-wide shift toward shorter theatrical/streaming runtimes.
+Movie runtime trend - average movie length has steadily shortened, from ~120 minutes for 2002 releases to ~92 minutes for 2020 releases, a ~24% decline, consistent with the industry-wide shift toward shorter theatrical/streaming runtimes.
 
-Most prolific directors — Rajiv Chilaka (19 titles, mostly kids' animated content), Raúl Campos & Jan Suter (18, stand-up specials), Marcus Raboy (16), Suhas Kadav (16).
+Most prolific directors -  Rajiv Chilaka (19 titles, mostly kids' animated content), Raúl Campos & Jan Suter (18, stand-up specials), Marcus Raboy (16), Suhas Kadav (16).
 
 
 How to Reproduce
